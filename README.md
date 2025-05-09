@@ -3,7 +3,6 @@ Experienced in Java.
 Always eager to learn, collaborate, and contribute to innovative projects. 
 Let's connect and create something amazing!
 - 👋 Hi, I’m @dragon-udfly
-- 👋 Hi, I’m an undergraduate student
 - 👀 I’m interested in Web Development, AI/ML, DevOps, Open Source, Cybersecurity
 - 🌱 I’m currently learning Advanced Java and Backend technologies
 - 💞️ I’m looking to collaborate on projects
