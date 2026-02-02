@@ -1,8 +1,9 @@
 👋 Hi, I’m @dragon-udfly  
-🚀 Passionate about crafting scalable, efficient, and user-friendly applications. Loves Java, Python, always eager to learn, collaborate and commit with working team.  
-💡 Exploring AI/ML, DevOps, Open Source, and Cybersecurity always excited to dive into new technologies!  
-🌱 Currently deepening my knowledge in Advanced Java, python and Backend technologies to build high-performance applications.  
+🫡 Always eager to learn, collaborate and commit with suportive team.  
 💞️ Excited to collaborate on impactful projects that push boundaries!  
+💡 Exploring AI/ML, DevOps, Open Source, and Cybersecurity.
+😋 Always excited to dive into new technologies!  
+🌱 Currently deepening my knowledge in Advanced Java, python and Backend technologies.  
 ⚡ Fun fact: It works on my machine... does it work everywhere else? Let’s find out together!  
 <!---
 dragon-udfly/dragon-udfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
