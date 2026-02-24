@@ -8,7 +8,7 @@
 
 * **Behavior:** 👋 Always eager to learn and commit with a supportive swarm.
 * **Goal:** 💞️ Pushing boundaries on high-impact software ecosystems.
-* **Habits:** 🎧 Music, 🎬 Movies, 💻 Vibe-code, 📚 Vibe-learn
+* **Habits:** 🎧 Music, 🎬 Movies, 💻 Code, 📚 Learn
 
 ---
 
