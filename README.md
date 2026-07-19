@@ -4,7 +4,7 @@
 
 ---
 
-### 🧬 BIOLOGICAL DATA (About Me)
+### 🧬 ABOUT ME
 
 * **Behavior:** 👋 Always eager to learn and commit with a supportive swarm.
 * **Goal:** 💞️ Pushing boundaries on high-impact software ecosystems.
@@ -12,14 +12,14 @@
 
 ---
 
-### 🔍 COMPOUND VISION (Exploring)
+### 🔍 EXPLORING
 * 💡 **Open Source & Cybersecurity** — Scanning for vulnerabilities and transparency.
 * 😋 **Tech Agnostic** — Always excited to migrate to new tech habitats.
 * 🌱 **Metamorphosis** — Currently molting into **Advanced Java**, **Python**, and **Backend Architecture**.
 
 ---
 
-### 🛠️ FLIGHT MECHANICS (Skills)
+### 🛠️ SKILLS
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,laravel,php,mysql,docker,nginx,linux,git,postman,javascript,html,css,c,git,mongodb,nodejs,vscode,bash,powershell,stackoverflow,matlab" />
@@ -29,7 +29,7 @@
 
 ---
 
-### ⚡ TELEMETRY (Fun Fact)
+### ⚡ FUN FACT
 > **"It works on my machine... does it work everywhere else? Let’s find out together!"** > *— The Dragonfly's Debugging*
 
 
