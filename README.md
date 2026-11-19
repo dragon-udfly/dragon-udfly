@@ -13,7 +13,7 @@
 ---
 
 ### 🔍 EXPLORING
-* 💡 **Open Source & Cybersecurity** — Scanning for vulnerabilities and transparency.
+* 💡 **Open Source & Programming** — Scanning for vulnerabilities and transparency.
 * 😋 **Tech Agnostic** — Always excited to migrate to new tech habitats.
 * 🌱 **Metamorphosis** — Currently molting into **Advanced Java**, **Python**, and **Backend Architecture**.
 
